@@ -7,7 +7,9 @@ Code-Lover theme for SublimeText 2
 <img src='scrot.png'>
 
 # Install
+edit ```
 /home/$USER/.config/sublime-text-2/Packages/User
+```
 
 add this lines
 
