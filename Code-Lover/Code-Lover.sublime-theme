@@ -26,7 +26,7 @@
         "layer0.tint": [15,25,35],
         "layer0.inner_margin": [0,0],
         "layer0.opacity": 0.7,
-        "layer1.texture": "Theme - Code-Lover/Code-Lover/tab-bar@2x.png",
+        "layer1.texture": "Code-Lover/Code-Lover/tab-bar@2x.png",
         "layer1.opacity": 1
     },
     // Tab close state
@@ -49,7 +49,7 @@
         "layer0.texture": "",
         "layer0.tint": [51,51,51],
         "layer0.opacity": 1,
-        "layer1.texture": "Theme - Code-Lover/Code-Lover/tab-bar-active@2x.png",
+        "layer1.texture": "Code-Lover/Code-Lover/tab-bar-active@2x.png",
         "layer1.opacity": 1
     },
     // Tab dirty state (close button hidden)
@@ -66,7 +66,7 @@
     // Tab close button
     {
         "class": "tab_close_button",
-        "layer0.texture": "Theme - Code-Lover/Code-Lover/close@2x.png",
+        "layer0.texture": "Code-Lover/Code-Lover/close@2x.png",
         "layer0.opacity": 0,
         "layer0.tint": [23,148,236]
     },
@@ -91,7 +91,7 @@
     {
         "class": "tab_close_button",
         "parents": [{"class": "tab_control","attributes": ["dirty"]}],
-        "layer0.texture": "Theme - Code-Lover/Code-Lover/circle@2x.png",
+        "layer0.texture": "Code-Lover/Code-Lover/circle@2x.png",
         "layer0.tint": [23,148,236],
         "layer0.opacity": 1
     },
@@ -105,7 +105,7 @@
     {
         "class": "tab_close_button",
         "parents": [{"class": "tab_control","attributes": ["dirty","hover"]}],
-        "layer0.texture": "Theme - Code-Lover/Code-Lover/close.png",
+        "layer0.texture": "Code-Lover/Code-Lover/close.png",
         "layer0.opacity": 1,
         "layer0.tint": [23,148,236]
     },
@@ -176,7 +176,7 @@
         "layer0.opacity": 1.0,
         "layer0.tint": [25,25,25],
         "layer0.inner_margin": 0,
-        "layer1.texture": "Theme - Code-Lover/Code-Lover/tab-scroll-dropdown.png",
+        "layer1.texture": "Code-Lover/Code-Lover/tab-scroll-dropdown.png",
         "layer1.inner_margin": [5,0,-5,0],
         "layer1.tint": [255,255,255],
         "layer1.opacity": 1.0
@@ -184,7 +184,7 @@
     {
         "class": "show_tabs_dropdown_button",
         "attributes": ["hover"],
-        "layer1.texture": "Theme - Code-Lover/Code-Lover/tab-scroll-dropdown.png",
+        "layer1.texture": "Code-Lover/Code-Lover/tab-scroll-dropdown.png",
         "layer1.inner_margin": [5,0,-5,0],
         "layer1.tint": [23,148,236],
         "layer1.opacity": 1.0
@@ -197,7 +197,7 @@
         "layer0.tint": [25,25,25],
         "layer0.opacity": 1.0,
         "layer0.inner_margin": 0,
-        "layer1.texture": "Theme - Code-Lover/Code-Lover/tab-scroll-left.png",
+        "layer1.texture": "Code-Lover/Code-Lover/tab-scroll-left.png",
         "layer1.inner_margin": [0,0,0,0],
         "layer1.tint": [255,255,255],
         "layer1.opacity": 1.0
@@ -205,8 +205,8 @@
     {
         "class": "scroll_tabs_left_button",
         "attributes": ["hover"],
-        "layer1.texture": "Theme - Code-Lover/Code-Lover/tab-scroll-left.png",
-        "layer1.tint": [231,76,60],
+        "layer1.texture": "Code-Lover/Code-Lover/tab-scroll-left.png",
+        "layer1.tint": [23,148,236],
         "layer1.opacity": 1.0
     },
     // Tab scroll right
@@ -217,7 +217,7 @@
         "layer0.tint": [25,25,25],
         "layer0.opacity": 1.0,
         "layer0.inner_margin": 0,
-        "layer1.texture": "Theme - Code-Lover/Code-Lover/tab-scroll-right.png",
+        "layer1.texture": "Code-Lover/Code-Lover/tab-scroll-right.png",
         "layer1.inner_margin": [0,0,0,0],
         "layer1.tint": [255,255,255],
         "layer1.opacity": 1.0
@@ -225,7 +225,7 @@
     {
         "class": "scroll_tabs_right_button",
         "attributes": ["hover"],
-        "layer1.texture": "Theme - Code-Lover/Code-Lover/tab-scroll-right.png",
+        "layer1.texture": "Code-Lover/Code-Lover/tab-scroll-right.png",
         "layer1.tint": [23,148,236],
         "layer1.opacity": 1.0
     },
@@ -236,7 +236,7 @@
 
     {
         "class": "fold_button_control",
-        "layer0.texture": "Theme - Code-Lover/Code-Lover/folder-closed@2x.png",
+        "layer0.texture": "Code-Lover/Code-Lover/folder-closed@2x.png",
         "layer0.opacity": 1,
         "layer0.inner_margin": 0,
         "content_margin": [8,8]
@@ -249,7 +249,7 @@
     {
         "class": "fold_button_control",
         "attributes": ["expanded"],
-        "layer0.texture": "Theme - Code-Lover/Code-Lover/folder-open@2x.png",
+        "layer0.texture": "Code-Lover/Code-Lover/folder-open@2x.png",
         "layer0.opacity": 0.25
     },
     {
@@ -571,7 +571,7 @@
     // Sidebar file close
     {
         "class": "close_button",
-        "layer0.texture": "Theme - Code-Lover/Code-Lover/circle@2x.png",
+        "layer0.texture": "Code-Lover/Code-Lover/circle@2x.png",
         "layer0.opacity": 0,
         "layer0.inner_margin": 0,
         "layer0.tint": [23,148,236],
@@ -587,7 +587,7 @@
     {
         "class": "close_button",
         "attributes": ["dirty"],
-        "layer0.texture": "Theme - Code-Lover/Code-Lover/circle@2x.png",
+        "layer0.texture": "Code-Lover/Code-Lover/circle@2x.png",
         "layer0.opacity": 1,
         "layer0.tint": [23,148,236]
     },
@@ -595,13 +595,13 @@
         "class": "close_button",
         "attributes": ["dirty"],
         "parents": [{"class": "tree_row","attributes": ["selected"]}],
-        "layer0.texture": "Theme - Code-Lover/Code-Lover/close@2x.png"
+        "layer0.texture": "Code-Lover/Code-Lover/close@2x.png"
     },
     {
         "class": "close_button",
         "attributes": ["dirty"],
         "parents": [{"class": "tree_row","attributes": ["hover"]}],
-        "layer0.texture": "Theme - Code-Lover/Code-Lover/close@2x.png",
+        "layer0.texture": "Code-Lover/Code-Lover/close@2x.png",
         "layer0.opacity": 1,
         "layer0.tint": [23,148,236]
     },
@@ -609,12 +609,12 @@
     {
         "class": "close_button",
         "attributes": ["hover"],
-        "layer0.texture": "Theme - Code-Lover/Code-Lover/close@2x.png"
+        "layer0.texture": "Code-Lover/Code-Lover/close@2x.png"
     },
     {
         "class": "close_button",
         "parents": [{"class": "tree_row","attributes": ["hover","selected"]}],
-        "layer0.texture": "Theme - Code-Lover/Code-Lover/close@2x.png",
+        "layer0.texture": "Code-Lover/Code-Lover/close@2x.png",
         "layer0.opacity": 1
     },
 
@@ -637,7 +637,7 @@
     {
         "class": "disclosure_button_control",
         "content_margin": [9,9],
-        "layer0.texture": "Theme - Code-Lover/Code-Lover/folder-closed@2x.png",
+        "layer0.texture": "Code-Lover/Code-Lover/folder-closed@2x.png",
         "layer0.tint": [170,170,170],
         "layer0.opacity": 1,
         "layer0.inner_margin": [2,2]
@@ -665,7 +665,7 @@
         "class": "disclosure_button_control",
         "settings": ["soda_folder_icons"],
         "parents": [{"class": "tree_row","attributes": ["selected"]}],
-        "layer0.texture": "Theme - Code-Lover/Code-Lover/folder-closed@2x.png",
+        "layer0.texture": "Code-Lover/Code-Lover/folder-closed@2x.png",
         "layer0.tint": [23,148,236],
         "layer0.opacity": 1
     },
@@ -673,40 +673,40 @@
     {
         "class": "disclosure_button_control",
         "attributes": ["expanded"],
-        "layer0.texture": "Theme - Code-Lover/Code-Lover/folder-open@2x.png"
+        "layer0.texture": "Code-Lover/Code-Lover/folder-open@2x.png"
     },
     {
         "class": "disclosure_button_control",
         "attributes": ["expanded"],
         "parents": [{"class": "tree_row","attributes": ["hover"]}],
-        "layer0.texture": "Theme - Code-Lover/Code-Lover/folder-open@2x.png"
+        "layer0.texture": "Code-Lover/Code-Lover/folder-open@2x.png"
     },
     {
         "class": "disclosure_button_control",
         "attributes": ["expanded"],
         "parents": [{"class": "tree_row","attributes": ["selected"]}],
-        "layer0.texture": "Theme - Code-Lover/Code-Lover/folder-open@2x.png"
+        "layer0.texture": "Code-Lover/Code-Lover/folder-open@2x.png"
     },
     // Sidebar folder open
     {
         "class": "disclosure_button_control",
         "settings": ["soda_folder_icons"],
         "attributes": ["expanded"],
-        "layer0.texture": "Theme - Code-Lover/Code-Lover/folder-open@2x.png"
+        "layer0.texture": "Code-Lover/Code-Lover/folder-open@2x.png"
     },
     {
         "class": "disclosure_button_control",
         "settings": ["soda_folder_icons"],
         "attributes": ["expanded"],
         "parents": [{"class": "tree_row","attributes": ["hover"]}],
-        "layer0.texture": "Theme - Code-Lover/Code-Lover/folder-open@2x.png"
+        "layer0.texture": "Code-Lover/Code-Lover/folder-open@2x.png"
     },
     {
         "class": "disclosure_button_control",
         "settings": ["soda_folder_icons"],
         "attributes": ["expanded"],
         "parents": [{"class": "tree_row","attributes": ["selected"]}],
-        "layer0.texture": "Theme - Code-Lover/Code-Lover/folder-open@2x.png"
+        "layer0.texture": "Code-Lover/Code-Lover/folder-open@2x.png"
     },
 
 //
@@ -942,7 +942,7 @@
     // Regex search button
     {
         "class": "icon_regex",
-        "layer0.texture": "Theme - Code-Lover/Code-Lover/regex.png",
+        "layer0.texture": "Code-Lover/Code-Lover/regex.png",
         "layer0.tint": [170, 170, 170],
         "layer0.opacity": 1,
         "content_margin": 8
@@ -960,7 +960,7 @@
     // Case sensitive search button
     {
         "class": "icon_case",
-        "layer0.texture": "Theme - Code-Lover/Code-Lover/casesens.png",
+        "layer0.texture": "Code-Lover/Code-Lover/casesens.png",
         "layer0.tint": [170, 170, 170],
         "layer0.opacity": 1,
         "content_margin": 8
@@ -978,7 +978,7 @@
     // Match whole word search button
     {
         "class": "icon_whole_word",
-        "layer0.texture": "Theme - Code-Lover/Code-Lover/wholeword.png",
+        "layer0.texture": "Code-Lover/Code-Lover/wholeword.png",
         "layer0.tint": [170, 170, 170],
         "layer0.opacity": 1,
         "content_margin": 8
@@ -1001,7 +1001,7 @@
     // Show search context button
     {
         "class": "icon_context",
-        "layer0.texture": "Theme - Code-Lover/Code-Lover/context.png",
+        "layer0.texture": "Code-Lover/Code-Lover/context.png",
         "layer0.tint": [170, 170, 170],
         "layer0.opacity": 1,
         "content_margin": 8
@@ -1019,7 +1019,7 @@
     // Use search buffer
     {
         "class": "icon_use_buffer",
-        "layer0.texture": "Theme - Code-Lover/Code-Lover/buffer.png",
+        "layer0.texture": "Code-Lover/Code-Lover/buffer.png",
         "layer0.tint": [170, 170, 170],
         "layer0.opacity": 1,
         "content_margin": 8
@@ -1041,7 +1041,7 @@
     // Reverse search direction button (ST2 only)
     {
         "class": "icon_reverse",
-        "layer0.texture": "Theme - Code-Lover/Code-Lover/reverse.png",
+        "layer0.texture": "Code-Lover/Code-Lover/reverse.png",
         "layer0.tint": [170, 170, 170],
         "layer0.opacity": 1,
         "content_margin": 8
@@ -1059,7 +1059,7 @@
     // Search wrap button
     {
         "class": "icon_wrap",
-        "layer0.texture": "Theme - Code-Lover/Code-Lover/wrap.png",
+        "layer0.texture": "Code-Lover/Code-Lover/wrap.png",
         "layer0.tint": [170, 170, 170],
         "layer0.opacity": 1,
         "content_margin": 8
@@ -1077,7 +1077,7 @@
     // Search in selection button
     {
         "class": "icon_in_selection",
-        "layer0.texture": "Theme - Code-Lover/Code-Lover/selection.png",
+        "layer0.texture": "Code-Lover/Code-Lover/selection.png",
         "layer0.tint": [170, 170, 170],
         "layer0.opacity": 1,
         "content_margin": 8
@@ -1100,7 +1100,7 @@
     // Preserve case button
     {
         "class": "icon_preserve_case",
-        "layer0.texture": "Theme - Code-Lover/Code-Lover/casesens.png",
+        "layer0.texture": "Code-Lover/Code-Lover/casesens.png",
         "layer0.tint": [170, 170, 170],
         "layer0.opacity": 1,
         "content_margin": 8
@@ -1123,7 +1123,7 @@
     // Highlight results button
     {
         "class": "icon_highlight",
-        "layer0.texture": "Theme - Code-Lover/Code-Lover/highlight.png",
+        "layer0.texture": "Code-Lover/Code-Lover/highlight.png",
         "layer0.tint": [170, 170, 170],
         "layer0.opacity": 1,
         "content_margin": 8
