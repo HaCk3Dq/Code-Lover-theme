@@ -1,6 +1,6 @@
-# Code-Lover-pack
+# Code-Lover
 
-Brogrammer theme remade with main blue color + my syntax highlight theme
+Syntax theme for Sublime Text 3
 
 # Screenshot
 <img src='scrot.png'>
